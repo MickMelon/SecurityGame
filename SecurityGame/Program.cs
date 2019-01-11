@@ -61,7 +61,7 @@ namespace SecurityGame
             var authPresenter = new AuthPresenter(parentView, authService, authView);
             var adminPresenter = new AdminPresenter(parentView, questionRepository, adminView, questionManagerView);
 
-            // Add views to the parent container
+            // Add views to the parent container.
             parentView.Controls.Add(menuView);
             parentView.Controls.Add(gameView);
             parentView.Controls.Add(gameOverView);
