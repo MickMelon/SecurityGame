@@ -2,6 +2,8 @@
 
 This is the repository for the Security Game project made for the fictional client called Doge CyberSafe for a Software Engineering university project.
 
+Couldn't fork from the classroom repo but all is good.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
