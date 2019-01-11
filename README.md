@@ -1,4 +1,4 @@
-# cmp307-coursework-MickMelon
+# Security Game
 
 This is the repository for the Security Game project made for the fictional client called Doge CyberSafe for a Software Engineering university project.
 
