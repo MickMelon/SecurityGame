@@ -1,5 +1,2 @@
 language: csharp
 solution: SecurityGame.sln
-script:
-  - dotnet restore
-  - dotnet test
